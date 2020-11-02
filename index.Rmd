@@ -1,0 +1,27 @@
+---
+title: "Sydney Ng"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+#### Master of Public Health Candidate, 2021
+#### Columbia University Mailman School of Public Health
+#### Department of Biostatistics, Certificate in Advanced Epidemiology
+
+![](images/snugharbor_solo.jpeg)
+
+### About
+
+I am currently a second-year MPH student studying Biostatistics and Epidemiology at The Mailman School of Public Health. I graduated from SUNY Geneseo in May 2019 with a BS in Applied Mathematics and minors in Biology and Communication.
+
+This website was created for Data Science 1 with Jeff Goldsmith, PhD (Fall 2020).
+
+
+### Contact information
+
+Sydney Ng
+Email: sn2863@cumc.columbia.edu
+Phone: 917-670-8207
