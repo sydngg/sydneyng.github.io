@@ -1,0 +1,74 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+## Education
+
+#### Columbia University Mailman School of Public Health, New York, NY
+#### Master of Public Health (May 2021)
+* Department of Biostatistics, Certificate in Advanced Epidemiology
+* Merit Scholarship, Columbia University Mailman School of Public Health, Department of Biostatistics (2019)
+* Coursework in Analysis of Categorical Data, Applied Regression 1&2, Data Science 1, Epi 2&3, SQL & Relational Databases, Research Methods and Applications, Determinants of Health, Health Systems
+
+#### State University of New York at Geneseo, Geneseo, NY
+#### Bachelor of Science in Applied Mathematics, _magna cum laude_ (May 2019)
+* Minors in Biology and Communication
+* Phi Beta Kappa National Honor Society (2019), NCAA D3 Swimming & Diving Scholastic All-American HM (2018, 2019)
+* Coursework in Biological Data Analysis, Modeling Biological Systems, Probability & Statistics, Statistics and Machine Learning, Linear Algebra 1&2
+* Study Abroad: Biology and Global Health Lecture and Lab in Ghana (June 2018 – July 2018)
+
+
+
+## Work Experience
+
+#### Graduate Teaching Assistant at Columbia University, New York, NY
+#### September 2020 – December 2020
+* Working as a teaching assistant for Quantitative Research Methods & Applications at the Mailman School of Public Health
+* Assisting a cohort of 400 students in biostatistics and epidemiology introductory studies, facilitating a weekly lab with 25 students
+* Navigating a remote work environment, employing effective time-management and communication, holding weekly office hour
+
+#### Healthcare Analyst Summer Intern at Analysis Group, Menlo Park, CA
+#### July 2020 – August 2020 
+* Organized, merged, manipulated Open Payments and Medicare Part D data using SAS, R/RStudio, Excel on a health litigation case
+* Conducted a literature review, presented findings weekly, communicated professional growth, collaborated with case team
+* Navigated remote work environment, prepared client-ready exhibits according to AG Best Practices, audited team work products
+
+#### Geneseo Opportunities for Leadership Development at SUNY Geneseo, NY
+#### August 2016 – May 2019 
+* Mentored students, facilitated time management and team-building workshops, organized social media on volunteer basis
+* Developed skills in practicing leadership, diversity and cultural competency, civic engagement, and global engagement
+
+
+## Research Experience
+### Columbia University Mailman School of Public Health, NY
+
+#### COVID-19 transmission in children in school settings
+#### Practicum project for graduation, under W. Yang, PhD, Department of Epidemiology (September 2020 - Present)
+* Conducting a literature review of peer-reviewed and pre-print papers, extracting relevant data, and summarizing findings
+* Collaborating with MPH peer, brainstorming ideas, synthesizing knowledge from public health education
+* Working on an infectious disease model of children to estimate SAR and building an app/dashboard that can be used to inform school reopening strategies in R/RStudio
+
+
+### State University of New York at Geneseo, NY
+
+#### Modeling Schistosomiasis in humans and snails using Ross-Macdonald differential equations (August 2018 – May 2019)
+#### Independent Directed Study/Research Project under S. Bandoni-Muench, G. Hartvigsen, C. Leary						 
+* Conducted statistical analyses and data visualization, employed epidemiological methods for predictive modeling using R/RStudio 
+* Reviewed 20+ research articles, handled previously collected datasets, and presented at school-wide research symposium
+* Collaborated with the Noguchi Memorial Institute for Medical Research, Ghana and synthesized intervention recommendations
+
+#### Integrating ML and statistics to predict college graduation status, major retention, and final GPA (January 2018 – May 2018)
+#### Academic Research Project for Statistics and Machine Learning course	under Y. Bilgic
+* Cleaned and visualized a large data set from SUNY Geneseo Admissions, imputed missing data, and optimized predictive models
+* Utilized statistical and machine learning methods to synthesize and interpret graduation insight to SUNY Geneseo Admissions
+* Collaborated with 2 other peers using R/RStudio & Microsoft Excel, presented and honored at annual ‘UpStat’ ASA conference
+
+#### Analyzing chaotic dynamics on a small-world network (February 2018 – April 2018)
+#### Independent Directed Study/Research Project under G. Hartvigsen, C. Leary 
+* Simulated and analyzed chaotic network interactions using network theory and statistical analysis methods using R/RStudio
+* Created a professional poster using Microsoft PowerPoint and presented at school-wide research symposium

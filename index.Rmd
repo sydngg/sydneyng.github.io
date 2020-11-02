@@ -9,15 +9,17 @@ output:
 
 #### Master of Public Health Candidate, 2021
 #### Columbia University Mailman School of Public Health
-#### Department of Biostatistics, Certificate in Advanced Epidemiology
+#### Department of Biostatistics
 
 ![](images/snugharbor_solo.jpeg)
 
-### About
+### About me
 
-I am currently a second-year MPH student studying Biostatistics and Epidemiology at The Mailman School of Public Health. I graduated from SUNY Geneseo in May 2019 with a BS in Applied Mathematics and minors in Biology and Communication.
+I am a second-year MPH student studying Biostatistics and Epidemiology at The Mailman School of Public Health. I graduated from The State University of New York at Geneseo in May 2019 with a BS in Applied Mathematics and minors in Biology and Communication.
 
-This website was created for Data Science 1 with Jeff Goldsmith, PhD (Fall 2020).
+Currently, I am working as a Graduate TA for Research Methods and Applications: Quantitative Research Methods and working under Wan Yang, PhD with a projected practicum research project and thesis on COVID-19 transmission in children. My general research interests are in infectious disease modeling, and maternal and child health.
+
+This website was created for my Data Science 1 class with Jeff Goldsmith, PhD (Fall 2020).
 
 
 ### Contact information
