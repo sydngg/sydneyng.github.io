@@ -13,7 +13,7 @@ output:
 
 ![](images/snugharbor_solo.jpeg)
 
-#### About me
+### About me
 
 I am a second-year MPH student studying Biostatistics and Epidemiology at Columbia University, Mailman School of Public Health. I graduated from The State University of New York at Geneseo in May 2019 with a BS in Applied Mathematics and minors in Biology and Communication.
 
