@@ -69,9 +69,21 @@ tmax_tmin_ggplot <-
 ggplotly(tmax_tmin_ggplot)
 ```
 
-### Chart C
+### Scatterplot of Average Snowfall and Precipitation For Winter Months, 2000-2010
 
 ```{r}
+month_df <- tibble(Month = 1:12, Month_Name = month.abb)
+
+noaa_df %>%
+  filter(Month %in% c(12, 1, 2, 3)) %>%
+  group_by(Month, Year) %>%
+  summarise(Avg_Precipitation = mean(prcp, na.rm = TRUE),
+            Avg_Snowfall = mean(snow, na.rm = TRUE)) %>%
+  left_join(month_df, by = "Month") %>%
+  plot_ly(x = ~Avg_Precipitation, y = ~Avg_Snowfall, color = ~Month_Name,
+          type = "scatter", colors = "viridis",
+          marker = list(size = 20, opacity = 0.5)) %>%
+  layout(title = "Average Snowfall vs Average Precipitation For Winter Months")
 
 ```
 
