@@ -353,10 +353,7 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="resume.html">
-    <span class="fa fa-file fa-lg"></span>
-     
-  </a>
+  <a href="resume.html">Resume</a>
 </li>
 <li>
   <a href="mailto:&lt;sn2863@cumc.columbia.edu&gt;">
@@ -376,6 +373,9 @@ div.tocify {
      
   </a>
 </li>
+<li>
+  <a href="plotly.html">Plotly</a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -390,8 +390,14 @@ div.tocify {
 </div>
 
 
-<div id="flexdashboard-using-plotly-ny-noaa-data" class="section level4">
-<h4>Flexdashboard using Plotly – NY NOAA data</h4>
+<div id="flexdashboard-using-plotly-nyc-restaurant-inspections-data" class="section level4">
+<h4>Flexdashboard using Plotly – NYC Restaurant Inspections Data</h4>
+<pre class="r"><code>library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+
+data(rest_inspec) # loading NYC restaurants inspections data</code></pre>
+<p>The <code>rest_inspec</code> dataset contains information about NYC Department of Health and Mental Hygiene restaurant inspections, done annually and unannounced.</p>
 </div>
 
 

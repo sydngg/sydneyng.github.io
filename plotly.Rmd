@@ -7,5 +7,14 @@ output:
     theme: cosmo
 ---
 
-#### Flexdashboard using Plotly -- NY NOAA data
+#### Flexdashboard using Plotly -- NYC Restaurant Inspections Data
 
+```{r message=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+
+data(rest_inspec) # loading NYC restaurants inspections data
+```
+
+The `rest_inspec` dataset contains information about NYC Department of Health and Mental Hygiene restaurant inspections, done annually and unannounced. 
