@@ -11,7 +11,7 @@ navbar:
       href: http://github.com/sydngg/
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/sydng/
-    - text: "Plotly"
+    - text: "Homework 4"
       href: plotly.html
 output:
   html_document:

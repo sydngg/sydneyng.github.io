@@ -9,6 +9,8 @@ output:
 
 #### Flexdashboard using Plotly -- NY NOAA Dataset
 
+Please follow this link to my [Flexdashboard](dashboard.html) using `Plotly` for Homework 4.
+
 ```{r message=FALSE}
 library(tidyverse)
 library(p8105.datasets)

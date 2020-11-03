@@ -5,6 +5,7 @@ output:
     orientation: columns
     vertical_layout: fill
     source: embed
+    theme: cosmo
 ---
 
 ```{r setup, include=FALSE}
@@ -27,26 +28,31 @@ scale_fill_discrete = scale_fill_viridis_d
 ```{r}
 noaa_df <-
   ny_noaa %>%
-  separate(date, c("year", "month", "day"), convert = TRUE) %>%
+  separate(date, c("Year", "Month", "Day"), convert = TRUE) %>%
   mutate(tmax = as.numeric(tmax)/10, # changing tenths of degrees C to degrees C
          tmin = as.numeric(tmin)/10,
          prcp = prcp/10) %>% # changing precipitation tenths of mm to mm
-  filter(year %in% 2000:2010) #subset of the last 10 years
+  filter(Year %in% 2000:2010) #subset of the last 10 years
 ```
 
 
 Column {data-width=650}
 -----------------------------------------------------------------------
+### Scatterplot of Average Snowfall and Precipitation For Winter Months, 2000-2010
 
-### Distribution of snowfall values (between 0 and 100mm) from 2000 to 2010.
+```{r message=FALSE}
+month_df <- tibble(Month = 1:12, Month_Name = month.abb)
 
-```{r warning=FALSE}
 noaa_df %>%
-  filter(snow > 0 & snow < 100) %>%
-  mutate(year = as.factor(year)) %>%
-  plot_ly(x = ~year, y = ~snow, color = ~year, type = "box", colors = "viridis") %>%
-  layout(showlegend = FALSE, 
-         title = "Distribution of Snowfall between 0 and 100mm in NY")
+  filter(Month %in% c(12, 1, 2, 3)) %>%
+  group_by(Month, Year) %>%
+  summarize(Avg_Precipitation = mean(prcp, na.rm = TRUE),
+            Avg_Snowfall = mean(snow, na.rm = TRUE), .groups = "keep") %>%
+  left_join(month_df, by = "Month") %>%
+  plot_ly(x = ~Avg_Precipitation, y = ~Avg_Snowfall, color = ~Month_Name,
+          type = "scatter", colors = "viridis",
+          marker = list(size = 20, opacity = 0.5))
+
 ```
 
 Column {data-width=350}
@@ -61,7 +67,6 @@ tmax_tmin_ggplot <-
   ggplot(aes(x=tmin, y=tmax)) +
   geom_hex() +
   labs(
-    title = "Maximum vs Minimum Temperatures",
     x = "Minimum Temperature",
     y = "Maximum Temperature"
   )
@@ -69,21 +74,14 @@ tmax_tmin_ggplot <-
 ggplotly(tmax_tmin_ggplot)
 ```
 
-### Scatterplot of Average Snowfall and Precipitation For Winter Months, 2000-2010
+### Distribution of snowfall values (between 0 and 100mm) from 2000 to 2010.
 
-```{r}
-month_df <- tibble(Month = 1:12, Month_Name = month.abb)
-
+```{r warning=FALSE}
 noaa_df %>%
-  filter(Month %in% c(12, 1, 2, 3)) %>%
-  group_by(Month, Year) %>%
-  summarise(Avg_Precipitation = mean(prcp, na.rm = TRUE),
-            Avg_Snowfall = mean(snow, na.rm = TRUE)) %>%
-  left_join(month_df, by = "Month") %>%
-  plot_ly(x = ~Avg_Precipitation, y = ~Avg_Snowfall, color = ~Month_Name,
-          type = "scatter", colors = "viridis",
-          marker = list(size = 20, opacity = 0.5)) %>%
-  layout(title = "Average Snowfall vs Average Precipitation For Winter Months")
-
+  filter(snow > 0 & snow < 100) %>%
+  mutate(Year = as.factor(Year)) %>%
+  plot_ly(x = ~Year, y = ~snow, color = ~Year, type = "box", colors = "viridis") %>%
+  layout(showlegend = FALSE)
 ```
+
 
