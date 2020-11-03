@@ -38,7 +38,7 @@ noaa_df <-
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### istribution of snowfall values (between 0 and 100mm) from 2000 to 2010.
+### Distribution of snowfall values (between 0 and 100mm) from 2000 to 2010.
 
 ```{r warning=FALSE}
 noaa_df %>%

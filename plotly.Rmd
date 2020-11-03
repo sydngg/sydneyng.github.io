@@ -37,26 +37,24 @@ data(ny_noaa)
 ```{r}
 noaa_df <-
   ny_noaa %>%
-  separate(date, c("year", "month", "day"), convert = TRUE) %>%
+  separate(date, c("Year", "Month", "Day"), convert = TRUE) %>%
   mutate(tmax = as.numeric(tmax)/10, # changing tenths of degrees C to degrees C
          tmin = as.numeric(tmin)/10,
          prcp = prcp/10) %>% # changing precipitation tenths of mm to mm
-  filter(year %in% 2000:2010) #subset of the last 10 years
+  filter(Year %in% 2000:2010) #subset of the last 10 years
 ```
 
 The `ny_noaa` dataset is from the National Oceanic and Atmospheric Association and contains data from all New York state weather stations from January 1, 1981 through December 31, 2010. For the purposes of this assignment, I chose to only look at the last 10 years, from 2000 to 2010, resulting in `r nrow(noaa_df)` observations out of the original approximate 2.6 million observations.
 
 ### Distribution of snowfall values (between 0 and 100mm) from 2000 to 2010.
 
-```{r}
+```{r warning=FALSE}
 noaa_df %>%
   filter(snow > 0 & snow < 100) %>%
-  mutate(year = as.factor(year)) %>%
-  plot_ly(x = ~year, y = ~snow, color = ~year, type = "box", colors = "viridis") %>%
+  mutate(Year = as.factor(Year)) %>%
+  plot_ly(x = ~Year, y = ~snow, color = ~Year, type = "box", colors = "viridis") %>%
   layout(showlegend = FALSE, 
-         title = "Distribution of Snowfall between 0 and 100mm in NY",
-         yaxis = "Snowfall (mm)",
-         xaxis = "Year")
+         title = "Distribution of Snowfall between 0 and 100mm in NY")
 ```
 
 ### Plotting the maximum vs minimum temperatures.
@@ -75,4 +73,18 @@ tmax_tmin_ggplot <-
 ggplotly(tmax_tmin_ggplot)
 ```
 
+### Distribution of average precipitation (mm) by month
+```{r message=FALSE}
+avg_precip <-
+  noaa_df %>%
+  mutate(Month = as.factor(Month)) %>% # so months do not show up as numeric var
+  group_by(Month, Year) %>%
+  summarise(Avg_Precipitation = mean(prcp, na.rm = TRUE)) %>%
+  plot_ly(x = ~Month, y = ~Avg_Precipitation, color = ~Month,
+          type = "violin", colors = "viridis") %>%
+  layout(showlegend = FALSE,
+         title = "Average Precipitation by Month (mm)")
+
+avg_precip
+```
 
