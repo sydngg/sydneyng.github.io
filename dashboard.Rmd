@@ -1,25 +1,17 @@
 ---
-title: "P8105 Homework 4 on Interactivity"
+title: "Dashboard for P8105 Homework 4"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: cosmo
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
 ---
 
-#### Flexdashboard using Plotly -- NY NOAA Dataset
-
-```{r message=FALSE}
+```{r setup, include=FALSE}
+library(flexdashboard)
 library(tidyverse)
 library(p8105.datasets)
 library(plotly)
-
-knitr::opts_chunk$set(
-  fig.width = 8,
-  fig.asp = .6,
-  fig.height = 6,
-  out.width = "90%"
-)
 
 theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
@@ -30,8 +22,6 @@ options(
 
 scale_colour_discrete = scale_color_viridis_d
 scale_fill_discrete = scale_fill_viridis_d
-
-data(ny_noaa)
 ```
 
 ```{r}
@@ -44,22 +34,26 @@ noaa_df <-
   filter(year %in% 2000:2010) #subset of the last 10 years
 ```
 
-The `ny_noaa` dataset is from the National Oceanic and Atmospheric Association and contains data from all New York state weather stations from January 1, 1981 through December 31, 2010. For the purposes of this assignment, I chose to only look at the last 10 years, from 2000 to 2010, resulting in `r nrow(noaa_df)` observations out of the original approximate 2.6 million observations.
 
-### Distribution of snowfall values (between 0 and 100mm) from 2000 to 2010.
+Column {data-width=650}
+-----------------------------------------------------------------------
 
-```{r}
+### istribution of snowfall values (between 0 and 100mm) from 2000 to 2010.
+
+```{r warning=FALSE}
 noaa_df %>%
   filter(snow > 0 & snow < 100) %>%
   mutate(year = as.factor(year)) %>%
   plot_ly(x = ~year, y = ~snow, color = ~year, type = "box", colors = "viridis") %>%
   layout(showlegend = FALSE, 
-         title = "Distribution of Snowfall between 0 and 100mm in NY",
-         yaxis = "Snowfall (mm)",
-         xaxis = "Year")
+         title = "Distribution of Snowfall between 0 and 100mm in NY")
 ```
 
+Column {data-width=350}
+-----------------------------------------------------------------------
+
 ### Plotting the maximum vs minimum temperatures.
+
 ```{r}
 tmax_tmin_ggplot <-
   noaa_df %>%
@@ -75,4 +69,9 @@ tmax_tmin_ggplot <-
 ggplotly(tmax_tmin_ggplot)
 ```
 
+### Chart C
+
+```{r}
+
+```
 
