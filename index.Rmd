@@ -19,4 +19,6 @@ I am a second-year MPH student studying Biostatistics and Epidemiology at The Ma
 
 Currently, I am working as a Graduate TA for Research Methods and Applications: Quantitative Research Methods and working under Wan Yang, PhD with a projected practicum research project and thesis on COVID-19 transmission in children. My general research interests are in infectious disease modeling, and maternal and child health.
 
+Follow this link to my [resume](resume.html) online.
+
 This website was created for my Data Science 1 class with Jeff Goldsmith, PhD (Fall 2020).
