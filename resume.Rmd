@@ -26,6 +26,12 @@ output:
 
 ## Work Experience
 
+#### Graduate Lead Teaching Assistant at Columbia University, New York, NY
+#### December 2020 – present
+* Working as a lead teaching assistant for Applied Regression 1 at the Mailman School of Public Health, Department of Biostatistics
+* Assisting 100 students in regression analysis methods, managing class logistics and a small TA team, working closely with M. Pavlicova, PhD
+* Navigating a remote work environment, employing effective time-management and communication, holding weekly office hours
+
 #### Graduate Teaching Assistant at Columbia University, New York, NY
 #### September 2020 – December 2020
 * Working as a teaching assistant for Quantitative Research Methods & Applications at the Mailman School of Public Health
@@ -50,7 +56,7 @@ output:
 #### COVID-19 transmission in children in school settings
 #### Practicum project for graduation, under W. Yang, PhD, Department of Epidemiology (September 2020 - Present)
 * Conducting a literature review of peer-reviewed and pre-print papers, extracting relevant data, and summarizing findings
-* Collaborating with MPH peer, brainstorming ideas, synthesizing knowledge from public health education
+* Collaborating with MPH peer, synthesizing knowledge from public health education, employing advanced regression techniques
 * Working on an infectious disease model of children to estimate SAR and building an app/dashboard that can be used to inform school reopening strategies in R/RStudio
 
 
