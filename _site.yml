@@ -7,9 +7,9 @@ navbar:
       href: resume.html
     - icon: fa-envelope fa-lg
       href: mailto:<sn2863@cumc.columbia.edu>
-    - icon: fa-github fa-lg
+    - icon: fa-github-alt fa-lg
       href: http://github.com/sydngg/
-    - icon: fa-linkedin fa-lg
+    - icon: fa-linkedin-in fa-lg
       href: https://www.linkedin.com/in/sydng/
 output:
   html_document:

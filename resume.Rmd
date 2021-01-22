@@ -10,7 +10,7 @@ output:
 ## Education
 
 #### Columbia University Mailman School of Public Health, New York, NY
-#### Master of Public Health (May 2021)
+#### Master of Public Health (anticipated: May 2021)
 * Department of Biostatistics, Certificate in Advanced Epidemiology
 * Merit Scholarship, Columbia University Mailman School of Public Health, Department of Biostatistics (2019)
 * Coursework in Analysis of Categorical Data, Applied Regression 1&2, Data Science 1, Epi 2&3, SQL & Relational Databases, Research Methods and Applications, Pharmaceutical Statistics, Health Economics
@@ -22,43 +22,45 @@ output:
 * Coursework in Biological Data Analysis, Modeling Biological Systems, Probability & Statistics, Statistics and Machine Learning, Linear Algebra 1&2
 * Study Abroad: Biology and Global Health Lecture and Lab in Ghana (June 2018 – July 2018)
 
-
+<br><br>
 
 ## Work Experience
 
 #### Graduate Lead Teaching Assistant at Columbia University, New York, NY
 #### January 2020 – present
-* Working as a lead teaching assistant for Applied Regression 1 at the Mailman School of Public Health, Department of Biostatistics
-* Assisting 100 students in regression analysis methods, managing class logistics, supporting faculty lecturer on a small team of five
-* Navigating a remote work environment, employing effective leadership, management, and problem-solving skills, holding weekly office hours
+* Working as a lead teaching assistant for Applied Regression 1 in the MSPH Department of Biostatistics
+* Assisting 100 students in regression methods, managing class logistics, supporting faculty lecturer on team of five
+* Navigating remote work environment, employing effective leadership, management, and problem-solving skills, holding weekly office hours
 
 
 #### Graduate Teaching Assistant at Columbia University, New York, NY
 #### September 2020 – December 2020
 * Worked as a teaching assistant for Quantitative Research Methods & Applications at the Mailman School of Public Health
-* Assisted a cohort of 400 students in biostatistics and epidemiology introductory studies, taught and facilitated a weekly lab with 25 students
-* Navigated a remote work environment, employed effective time-management and communication, held weekly office hour
+* Assisted a cohort of 400 students in biostatistics and epidemiology studies, facilitated a weekly lab with 25 students
+* Navigated remote work environment, employed effective time-management and communication, held weekly office hours
 
 #### Healthcare Analyst Summer Intern at Analysis Group, Menlo Park, CA
 #### July 2020 – August 2020 
-* Organized, merged, manipulated Open Payments and Medicare Part D data using SAS, R/RStudio, Excel on a health litigation case
-* Conducted a literature review, presented findings weekly, communicated professional growth, collaborated with case team
-* Navigated remote work environment, prepared client-ready exhibits according to AG Best Practices, audited team work products
+* Organized, merged, manipulated Open Payments and Medicare Part D data using SAS/R/RStudio on a health litigation case
+* Conducted a literature review, presented findings weekly, communicated professional growth, collaborated with team
+* Navigated remote work environment, prepared exhibits according to firm best practices, audited team products
 
 #### Geneseo Opportunities for Leadership Development at SUNY Geneseo, NY
 #### August 2016 – May 2019 
 * Mentored students, facilitated time management and team-building workshops, organized social media on volunteer basis
 * Developed skills in practicing leadership, diversity and cultural competency, civic engagement, and global engagement
 
+<br><br>
 
 ## Research Experience
+
 ### Columbia University Mailman School of Public Health, NY
 
 #### COVID-19 transmission in children in school settings
 #### Practicum project for graduation, under W. Yang, PhD, Department of Epidemiology (September 2020 - Present)
-* Conducting a literature review of peer-reviewed and pre-print papers, extracting and transforming data, meeting team weekly
-* Effectively summarizing and communicating findings, listening to advisor’s direction, visualizing data and results using R/RStudio
-* Partnering with MPH peer, synthesizing knowledge from public health education, employing creativity and regression techniques
+* Conducting literature review of peer-reviewed and pre-print papers, extracting and transforming data, meeting weekly
+* Effectively communicating findings, listening to advisor’s direction, visualizing data and results using R/RStudio
+* Partnering with MPH peer, synthesizing public health knowledge, employing creativity and regression techniques
 
 
 ### State University of New York at Geneseo, NY
@@ -67,15 +69,15 @@ output:
 #### Independent Directed Study/Research Project under S. Bandoni-Muench, G. Hartvigsen, C. Leary						 
 * Conducted statistical analyses and data visualization, employed epidemiological methods for predictive modeling using R/RStudio 
 * Reviewed 20+ research articles, handled previously collected datasets, and presented at school-wide research symposium
-* Collaborated with the Noguchi Memorial Institute for Medical Research, Ghana and synthesized intervention recommendations
+* Collaborated with the Noguchi Memorial Institute for Medical Research, Ghana and synthesized public health intervention recommendations
 
 #### Integrating ML and statistics to predict college graduation status, major retention, and final GPA (January 2018 – May 2018)
 #### Academic Research Project for Statistics and Machine Learning course	under Y. Bilgic
-* Cleaned and visualized a large data set from SUNY Geneseo Admissions, imputed missing data, and optimized predictive models
-* Utilized statistical and machine learning methods to synthesize and interpret graduation insight to SUNY Geneseo Admissions
-* Collaborated with 2 other peers using R/RStudio & Microsoft Excel, presented and honored at annual ‘UpStat’ ASA conference
+* Cleaned and visualized a large data set from SUNY Geneseo, imputed missing data, and optimized predictive models
+* Utilized statistical and machine learning methods to synthesize and interpret graduation insight to Admissions
+* Collaborated with 2 peers using R/RStudio & Microsoft Excel, presented and honored at annual ‘UpStat’ American Statistical Association conference
 
 #### Analyzing chaotic dynamics on a small-world network (February 2018 – April 2018)
 #### Independent Directed Study/Research Project under G. Hartvigsen, C. Leary 
-* Simulated and analyzed chaotic network interactions using network theory and statistical analysis methods using R/RStudio
+* Simulated and analyzed chaotic network interactions using network theory and statistical methods using R/RStudio
 * Created a professional poster using Microsoft PowerPoint and presented at school-wide research symposium

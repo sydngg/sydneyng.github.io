@@ -11,7 +11,10 @@ output:
 #### Columbia University, Mailman School of Public Health
 #### Department of Biostatistics
 
+<center>
 <img src="images/snugharbor_solo.jpeg" style="width:65%">
+\center
+<br><br>
 
 ### About me
 
