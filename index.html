@@ -28,6 +28,15 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -72,6 +81,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -357,19 +367,19 @@ div.tocify {
 </li>
 <li>
   <a href="mailto:&lt;sn2863@cumc.columbia.edu&gt;">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/sydngg/">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/sydng/">
-    <span class="fa fa-linkedin fa-lg"></span>
+    <span class="fas fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -395,12 +405,13 @@ div.tocify {
 </div>
 <div id="department-of-biostatistics" class="section level4">
 <h4>Department of Biostatistics</h4>
-<p><img src="images/snugharbor_solo.jpeg" style="width:65%"></p>
+<p><img src="images/snugharbor_solo.jpeg" style="sd:65%"></p>
 </div>
 <div id="about-me" class="section level3">
 <h3>About me</h3>
 <p>I am a second-year MPH student studying Biostatistics and Epidemiology at Columbia University, Mailman School of Public Health. I graduated from The State University of New York at Geneseo in May 2019 with a BS in Applied Mathematics and minors in Biology and Communication.</p>
 <p>Currently, I am working as a Graduate Lead TA for Applied Regression 1 in the Department of Biostatistics and working under Wan Yang, PhD from the Department of Epidemiology with a projected practicum research project and thesis on COVID-19 transmission in children. My general research interests are in infectious disease modeling, and maternal and child health.</p>
+<p>I am also excited to have coursework this semester in Infectious Disease Modeling, Introduction to Machine Learning for Epidemiologists, Health Economics, and Pharmaceutical Statistics. When I am not working or studying, I love to cook and stay active.</p>
 <p>Follow this link to my <a href="resume.html">resume</a> online.</p>
 <p>This website was created for my Data Science 1 class with Jeff Goldsmith, PhD (Fall 2020).</p>
 </div>
@@ -416,7 +427,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

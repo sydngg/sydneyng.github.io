@@ -13,7 +13,7 @@ output:
 #### Master of Public Health (May 2021)
 * Department of Biostatistics, Certificate in Advanced Epidemiology
 * Merit Scholarship, Columbia University Mailman School of Public Health, Department of Biostatistics (2019)
-* Coursework in Analysis of Categorical Data, Applied Regression 1&2, Data Science 1, Epi 2&3, SQL & Relational Databases, Research Methods and Applications, Determinants of Health, Health Systems
+* Coursework in Analysis of Categorical Data, Applied Regression 1&2, Data Science 1, Epi 2&3, SQL & Relational Databases, Research Methods and Applications, Pharmaceutical Statistics, Health Economics
 
 #### State University of New York at Geneseo, Geneseo, NY
 #### Bachelor of Science in Applied Mathematics, _magna cum laude_ (May 2019)
@@ -27,16 +27,17 @@ output:
 ## Work Experience
 
 #### Graduate Lead Teaching Assistant at Columbia University, New York, NY
-#### December 2020 – present
+#### January 2020 – present
 * Working as a lead teaching assistant for Applied Regression 1 at the Mailman School of Public Health, Department of Biostatistics
-* Assisting 100 students in regression analysis methods, managing class logistics and a small TA team, working closely with M. Pavlicova, PhD
-* Navigating a remote work environment, employing effective time-management and communication, holding weekly office hours
+* Assisting 100 students in regression analysis methods, managing class logistics, supporting faculty lecturer on a small team of five
+* Navigating a remote work environment, employing effective leadership, management, and problem-solving skills, holding weekly office hours
+
 
 #### Graduate Teaching Assistant at Columbia University, New York, NY
 #### September 2020 – December 2020
-* Working as a teaching assistant for Quantitative Research Methods & Applications at the Mailman School of Public Health
-* Assisting a cohort of 400 students in biostatistics and epidemiology introductory studies, facilitating a weekly lab with 25 students
-* Navigating a remote work environment, employing effective time-management and communication, holding weekly office hour
+* Worked as a teaching assistant for Quantitative Research Methods & Applications at the Mailman School of Public Health
+* Assisted a cohort of 400 students in biostatistics and epidemiology introductory studies, taught and facilitated a weekly lab with 25 students
+* Navigated a remote work environment, employed effective time-management and communication, held weekly office hour
 
 #### Healthcare Analyst Summer Intern at Analysis Group, Menlo Park, CA
 #### July 2020 – August 2020 
@@ -55,9 +56,9 @@ output:
 
 #### COVID-19 transmission in children in school settings
 #### Practicum project for graduation, under W. Yang, PhD, Department of Epidemiology (September 2020 - Present)
-* Conducting a literature review of peer-reviewed and pre-print papers, extracting relevant data, and summarizing findings
-* Collaborating with MPH peer, synthesizing knowledge from public health education, employing advanced regression techniques
-* Working on an infectious disease model of children to estimate SAR and building an app/dashboard that can be used to inform school reopening strategies in R/RStudio
+* Conducting a literature review of peer-reviewed and pre-print papers, extracting and transforming data, meeting team weekly
+* Effectively summarizing and communicating findings, listening to advisor’s direction, visualizing data and results using R/RStudio
+* Partnering with MPH peer, synthesizing knowledge from public health education, employing creativity and regression techniques
 
 
 ### State University of New York at Geneseo, NY
