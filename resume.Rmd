@@ -22,7 +22,7 @@ output:
 * Coursework in Biological Data Analysis, Modeling Biological Systems, Probability & Statistics, Statistics and Machine Learning, Linear Algebra 1&2
 * Study Abroad: Biology and Global Health Lecture and Lab in Ghana (June 2018 – July 2018)
 
-<br><br>
+<br>
 
 ## Work Experience
 
@@ -50,7 +50,7 @@ output:
 * Mentored students, facilitated time management and team-building workshops, organized social media on volunteer basis
 * Developed skills in practicing leadership, diversity and cultural competency, civic engagement, and global engagement
 
-<br><br>
+<br>
 
 ## Research Experience
 
