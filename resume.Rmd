@@ -10,27 +10,28 @@ output:
 ## Education
 
 #### Columbia University Mailman School of Public Health, New York, NY
-#### Master of Public Health (anticipated: May 2021)
+#### Master of Public Health (May 2021)
 * Department of Biostatistics, Certificate in Advanced Epidemiology
 * Merit Scholarship, Columbia University Mailman School of Public Health, Department of Biostatistics (2019)
-* Coursework in Analysis of Categorical Data, Applied Regression 1&2, Data Science 1, Epi 2&3, SQL & Relational Databases, Research Methods and Applications, Pharmaceutical Statistics, Health Economics
+* Coursework in Analysis of Categorical Data, Applied Regression 1&2, Data Science 1, Epi 2&3, SQL & Relational Databases, Research Methods and Applications, Infectious Disease Modeling, Introduction to Machine Learning in Epi, Health Economics
 
 #### State University of New York at Geneseo, Geneseo, NY
 #### Bachelor of Science in Applied Mathematics, _magna cum laude_ (May 2019)
 * Minors in Biology and Communication
 * Phi Beta Kappa National Honor Society (2019), NCAA D3 Swimming & Diving Scholastic All-American HM (2018, 2019)
 * Coursework in Biological Data Analysis, Modeling Biological Systems, Probability & Statistics, Statistics and Machine Learning, Linear Algebra 1&2
-* Study Abroad: Biology and Global Health Lecture and Lab in Ghana (June 2018 – July 2018)
+* [SUNY Geneseo Women's Swimming and Diving](https://www.geneseoknights.com/sports/wswimdive/2018-19/bios/ng_sydney_aesz?view=bio), Captain (2018-2019)
+* Study Abroad: [Biology and Global Health Lecture and Lab in Ghana](https://drive.google.com/file/d/1zzPTeYkf0aiOG4IfkK_QdzPAFSk01o6w/view?usp=sharing) (June 2018 – July 2018)
 
 <br>
 
 ## Work Experience
 
 #### Graduate Lead Teaching Assistant at Columbia University, New York, NY
-#### January 2020 – present
-* Working as a lead teaching assistant for Applied Regression 1 in the MSPH Department of Biostatistics
-* Assisting 100 students in regression methods, managing class logistics, supporting faculty lecturer on team of five
-* Navigating remote work environment, employing effective leadership, management, and problem-solving skills, holding weekly office hours
+#### January 2020 – May 2021
+* Worked as a lead teaching assistant for Applied Regression 1 in the MSPH Department of Biostatistics
+* Assisted 100 students in regression methods, managed class logistics, supported faculty lecturer on team of six
+* Navigated remote work environment, employed effective leadership, management, and problem-solving skills, held three weekly office hours
 
 
 #### Graduate Teaching Assistant at Columbia University, New York, NY
@@ -56,17 +57,17 @@ output:
 
 ### Columbia University Mailman School of Public Health, NY
 
-#### COVID-19 transmission in children in school settings
-#### Practicum project for graduation, under W. Yang, PhD, Department of Epidemiology (September 2020 - Present)
-* Conducting literature review of peer-reviewed and pre-print papers, extracting and transforming data, meeting weekly
-* Effectively communicating findings, listening to advisor’s direction, visualizing data and results using R/RStudio
-* Partnering with MPH peer, synthesizing public health knowledge, employing creativity and regression techniques
+#### [COVID-19 transmission in children in school settings](https://drive.google.com/file/d/1r0e6_aZyA1UXDEpd7loUlopDL5wxCFOo/view?usp=sharing)
+#### Practicum project for graduation, under W. Yang, PhD, Department of Epidemiology (September 2020 - April 2021)
+* Conducted literature review of peer-reviewed and pre-print papers, extracted and transformed data, meeting weekly
+* Effectively communicated findings, listened to advisor’s direction, visualized data and results using R/RStudio
+* Partnered with MPH peer, synthesized public health knowledge, employed creativity and regression techniques
 
 
 ### State University of New York at Geneseo, NY
 
-#### Modeling Schistosomiasis in humans and snails using Ross-Macdonald differential equations (August 2018 – May 2019)
-#### Independent Directed Study/Research Project under S. Bandoni-Muench, G. Hartvigsen, C. Leary						 
+#### [Modeling Schistosomiasis in humans and snails using Ross-Macdonald differential equations](https://drive.google.com/file/d/1rRg1FCmTqmnrU76UUthw96ZEf54oy6Dp/view?usp=sharing)
+#### Independent Directed Study/Research Project under S. Bandoni-Muench, G. Hartvigsen, C. Leary (August 2018 – May 2019)				 
 * Conducted statistical analyses and data visualization, employed epidemiological methods for predictive modeling using R/RStudio 
 * Reviewed 20+ research articles, handled previously collected datasets, and presented at school-wide research symposium
 * Collaborated with the Noguchi Memorial Institute for Medical Research, Ghana and synthesized public health intervention recommendations

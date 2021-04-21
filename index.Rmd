@@ -18,11 +18,13 @@ output:
 
 ### About me
 
-I am a second-year MPH student studying Biostatistics and Epidemiology at Columbia University, Mailman School of Public Health. I graduated from The State University of New York at Geneseo in May 2019 with a BS in Applied Mathematics and minors in Biology and Communication.
+I am currently an incoming Healthcare Analyst at Analysis Group, located in Menlo Park, CA. 
 
-Currently, I am working as a Graduate Lead TA for Applied Regression 1 in the Department of Biostatistics and working under Wan Yang, PhD from the Department of Epidemiology with a projected practicum research project and thesis on COVID-19 transmission in children. My general research interests are in infectious disease modeling, and maternal and child health.
+I recently graduated in April with my MPH studying Biostatistics and Epidemiology at Columbia University, [Mailman School of Public Health](https://www.publichealth.columbia.edu). For undergrad, I graduated from [The State University of New York at Geneseo](https://www.geneseo.edu) in May 2019 with a BS in Applied Mathematics and minors in Biology and Communication.
 
-I am also excited to have coursework this semester in Infectious Disease Modeling, Introduction to Machine Learning for Epidemiologists, Health Economics, and Pharmaceutical Statistics. When I am not working or studying, I love to stay busy by cooking, reading, and being active!
+Currently, I am continuing my work with Connor Reynolds under the supervision of Wan Yang, PhD from the Department of Epidemiology on COVID-19 transmission in children and we hope to complete a manuscript to publish our work following our last academic year. My general research interests are in infectious disease modeling, and maternal and child health.
+
+I am excited to enter the workforce and apply all the knowledge I have gained in my graduate studies in the field of economic consulting, particularly in healthcare settings. When I am not working or studying, I love to stay busy by cooking, reading, and being active!
 
 Follow this link to my [resume](resume.html) online.
 
