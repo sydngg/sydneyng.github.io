@@ -9,22 +9,22 @@ output:
 
 #### Master of Public Health, 2021
 #### Columbia University, Mailman School of Public Health
-#### Department of Biostatistics
+#### Department of Biostatistics, Certificate in Advanced Epidemiology
 
 <center>
-<img src="images/snugharbor_solo.jpeg" style="width:65%">
+<img src="images/DSC_0284.jpg" style="width:65%">
 \center
 <br><br>
 
 ### About me
 
-I am an incoming Healthcare Analyst at [Analysis Group](https://www.analysisgroup.com), located in Menlo Park, CA. 
+I am currently an Analyst at [Analysis Group](https://www.analysisgroup.com), located in Menlo Park, CA. 
 
 I recently graduated in April 2021 with my MPH studying Biostatistics and Epidemiology at Columbia University, [Mailman School of Public Health](https://www.publichealth.columbia.edu). For undergrad, I graduated from [The State University of New York at Geneseo](https://www.geneseo.edu) in May 2019 with a BS in Applied Mathematics and minors in Biology and Communication.
 
-Currently, I am continuing my work with Connor Reynolds under the supervision of Wan Yang, PhD from the Department of Epidemiology on COVID-19 transmission in children and we hope to complete a manuscript to publish our work following our last academic year. My general research interests are in infectious disease modeling and maternal and child health, and I would love to use my quantitative skills to influence public policy one day.
+For my practicum experience, I worked with Connor Reynolds under the supervision of Wan Yang, PhD from the Department of Epidemiology studying [factors affecting the transmission of SARS-CoV-2 in children in school settings](https://doi.org/10.1101/2021.06.18.21259156). My general interests are in HEOR, infectious disease modeling, and maternal and child health, and I would love to use my strong quantitative and interpersonal skills to influence public policy one day.
 
-I am excited to enter the workforce and apply all the knowledge I have gained in my graduate studies in the field of economic consulting, particularly in healthcare settings. When I am not working or studying, I love to stay busy by cooking, reading, and being active!
+I am excited to be in the workforce and apply all the knowledge I have gained in my graduate studies in the field of economic consulting, particularly in healthcare settings. When I am not working or studying, I love to stay busy by cooking, reading, weight training, and going to brunch on the weekends with friends!
 
 Follow this link to my [resume](resume.html) online.
 
